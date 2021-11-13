@@ -442,7 +442,7 @@ const SITE_DATA = {
                 {
                     "subject_code": "HS6151",
                     "subject_title": "English – I",
-                    "subject_description": "Technical English – I",
+                    "subject_description": "Technical English-I",
                     "credit_points": 4,
                 },
                 {
